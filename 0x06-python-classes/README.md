@@ -33,7 +33,7 @@ By the end of this session, you should be able to [explain to anyone](https://fs
 * [X] How to bind attributes to object and classes
 * [X] What is the ```__dict__``` of a class and/or instance of a class and what does it contain
 * [X] How does Python find the attributes of an object or class
-* [X] How to use the getattr function
+* [X] How to use the getattr function 
 
 ## More info
 ### Documentation is mandatory
